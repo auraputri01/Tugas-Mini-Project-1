@@ -18,22 +18,28 @@ SISTEM INFORMASI (C)
 <img width="1149" height="269" alt="Image" src="output_menu.jpg" />
 
 
-<p> 
-</p>
-<p> 1. Tambah Pinjaman </p>
-<p> 2. Lihat Daftar Peminjman </p>
-<p> Lalu di berikan sebuah inputan untuk memilih mana yang ingin di pilih dari 1-2 tersebut, jika menginput selain 1-2, maka mengeluarkan output: Input tidak valid. </p>
-<img width="1149" height="269" alt="Image" src="https://github.com/user-attachments/assets/6753f8e9-7d1a-4bbd-8ebf-32d7d05cc6eb" />
+<p> Sistem meminta pengguna untuk mengetik salah satu kategori produk yang tersedia.</p>
+<p> •	Jika pengguna mengetik fashion, maka program mungkin akan menampilkan daftar produk fashion. </p>
+<p> •	Jika mengetik kecantikan, program akan menampilkan produk kecantikan.</p>
+<p>	•	Jika mengetik peralatan, maka yang muncul daftar produk peralatan.</p>
 
 <h2> Pilihan Pertama </h2>
-<p> jika masuk ke pilihan pertama, pilihan ini digunakan untuk menambah data peminjaman.
-ketika dipilih, user akan diminta mengisi beberapa data:
-</p>
-<img width="1151" height="284" alt="Image" src="https://github.com/user-attachments/assets/721879f4-439f-49ff-8ae0-4f71f300cd4c" />
-<p> Nama Peminjam, Judul DVD/CD, Tanggal Pinjam. Setelah semua data dimasukkan, program menyimpan informasi tersebut ke dalam daftar peminjaman, lalu menampilkan pesan: </p>
-<img width="1167" height="148" alt="Image" src="https://github.com/user-attachments/assets/86f86872-b038-476a-9d37-b58d3970f8cc" />
+<p>1. User disuruh pilih kategori produk yang ada: bisa fashion, kecantikan, atau peralatan.</p>
+<p>2.	Kalau pilih fashion, nanti ditanya lagi mau lihat produk buat:</p>
+<p>pria atau wanita.</p>
+<p>3.	Setelah itu, program langsung nampilin daftar produk sesuai pilihan user lengkap sama harga awalnya.</p>
+<img width="1151" height="284" alt="Image" src="pilihan_1.jpg" />
 
 <h2> Pilihan Kedua </h2>
-<p> pilihan kedua ini digunakan untuk melihat seluruh daftar peminjaman yang diketik di bagian 1. 
-Jika sudah ada data dari bagian 1 dia akan menampilkan: </p>
-<img width="1156" height="180" alt="Image" src="https://github.com/user-attachments/assets/a28c964b-b2e6-4f2b-a390-c9568490a3bd" />
+<p>•	Jika user pilih kategori kecantikan, program bakal nanya lagi:</p>
+<p> produk buat wajah atau buat tubuh.</p>
+<p>•	Jika wajah: muncul daftar seperti serum, toner, dan moisturizer (harga dari Rp50.000).</p>
+<p>•	Jika tubuh: muncul daftar seperti body lotion, scrub, dan sabun herbal (harga dari Rp30.000). </p>
+<img width="1156" height="180" alt="Image" src="pilihan_2.jpg" />
+
+<h2> Pilihan Ketiga </h2>
+<p>•	Jika user pilih kategori peralatan, program akan nanya lagi:</p>
+<p> mau lihat peralatan dapur atau kantor?</p>
+<p>•	Jika dapur: muncul pisau, wajan, blender (mulai Rp25.000).</p>
+<p>•	Jika kantor: tampil pulpen, notebook, printer (mulai Rp10.000). </p>
+<img width="1156" height="180" alt="Image" src="pilihan_3.jpg" />
