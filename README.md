@@ -15,7 +15,7 @@ SISTEM INFORMASI (C)
 <br>
 
 <h2> Output Menu </h2>
-<img width="1149" height="269" alt="Image" src="houtput_menu.jpg" />
+<img width="1149" height="269" alt="Image" src="output_menu.jpg" />
 
 
 <p> 
