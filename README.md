@@ -1,13 +1,13 @@
-# Minpro 1 - Sistem Peminjaman DVD/CD
+# Minpro 1 - Data Produk Online Shop
 
-NAMA  : Diara Gladys Ignacia Fulvia Saputri
+NAMA  : Aura Putri Anandita Syarif
 <br>
-NIM  : 2509116093
+NIM  : 2509116094
 <br>
 SISTEM INFORMASI (C)
 <br>
 <br>
-<h2> Flowchart sistem peminjaman DVD/CD: </h2>
+<h2> Flowchart data produk online shop: </h2>
 <img width="1048" height="1380" alt="Flowchart " src="https://github.com/user-attachments/assets/49e61385-17fd-4ae1-adec-9372c6bd9647"/>
 
 <br>
