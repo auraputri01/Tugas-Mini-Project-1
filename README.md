@@ -24,7 +24,7 @@ SISTEM INFORMASI (C)
 <p>	•	Jika mengetik peralatan, maka yang muncul daftar produk peralatan.</p>
 
 <h2> Pilihan Pertama </h2>
-<p>1. User disuruh pilih kategori produk yang ada: bisa fashion, kecantikan, atau peralatan.</p>
+<p>1. User disuruh pilih kategori produk yang ada: fashion, kecantikan, atau peralatan.</p>
 <p>2.	Kalau pilih fashion, nanti ditanya lagi mau lihat produk buat:</p>
 <p>pria atau wanita.</p>
 <p>3.	Setelah itu, program langsung nampilin daftar produk sesuai pilihan user lengkap sama harga awalnya.</p>
