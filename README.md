@@ -15,7 +15,7 @@ SISTEM INFORMASI (C)
 <br>
 
 <h2> Output Menu </h2>
-<img width="1144" height="440" alt="Image" src="https://github.com/user-attachments/assets/7353d4c8-afb3-48b0-a634-4729db2b13a7" />
+<![Image](https://github.com/user-attachments/assets/232c268d-0bd4-43c3-a8e4-dc78d54d5f59) />
 <p> program peminjaman ini jika dijalankan maka yang pertama akan keluar menu yang terdiri dari 2 pilihan
 pilihan tersebut ada:
 </p>
