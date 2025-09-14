@@ -15,6 +15,7 @@ SISTEM INFORMASI (C)
 <br>
 
 <h2> Output Menu </h2>
+<img width="485" height="695" alt="Image" src=https://github.com/auraputri01/Tugas-Mini-Project-1/blob/main/output_menu.jpg />
 
 <p> program peminjaman ini jika dijalankan maka yang pertama akan keluar menu yang terdiri dari 2 pilihan
 pilihan tersebut ada:
