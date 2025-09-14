@@ -15,7 +15,6 @@ SISTEM INFORMASI (C)
 <br>
 
 <h2> Output Menu </h2>
-![output_menu](https://github.com/user-attachments/assets/a63d4fe6-3bba-446a-81be-172b44cc1016)
 
 <p> program peminjaman ini jika dijalankan maka yang pertama akan keluar menu yang terdiri dari 2 pilihan
 pilihan tersebut ada:
