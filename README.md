@@ -8,7 +8,7 @@ SISTEM INFORMASI (C)
 <br>
 <br>
 <h2> Flowchart data produk online shop: </h2>
-<img width="485" height="695" alt="Image" src="https://github.com/user-attachments/assets/696c80fe-2c35-4646-b835-450cc1ef03ce" />/>
+<img width="485" height="695" alt="Image" src="https://github.com/user-attachments/assets/696c80fe-2c35-4646-b835-450cc1ef03ce" />
 
 <br>
 <br>
