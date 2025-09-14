@@ -15,7 +15,8 @@ SISTEM INFORMASI (C)
 <br>
 
 <h2> Output Menu </h2>
-<img width="485" height="695" alt="Image" src="https://github.com/auraputri01/Tugas-Mini-Project-1/blob/main/output_menu.jpg](https://github.com/auraputri01/Tugas-Mini-Project-1/issues/2#issue-3415056313)" />
+<img width="1149" height="269" alt="Image" src="h[ttps://github.com/user-attachments/assets/6753f8e9-7d1a-4bbd-8ebf-32d7d05cc6eb](https://github.com/auraputri01/Tugas-Mini-Project-1/issues/2#issue-3415056313)" />
+
 
 <p> 
 </p>
